@@ -4,7 +4,7 @@ title: "Memoirs"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-url: http://peter0201yu.github.io
+# url: http://peter0201yu.github.io
 baseurl: '/jekyll_website'
 # google_analytics: 'UA-xxxxxxxx-1'
 # disqus: 'demowebsite'
